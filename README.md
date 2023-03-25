@@ -1,2 +1,2 @@
 # F1-Website
-A static website made with HTML5 and CSS3 for F1 fans.
+A static fan website made with HTML5 and CSS3 about Formula1.

@@ -1,0 +1,22 @@
+div{
+    display:block;
+    height: 250px;
+    width: 400px;
+    border: 3px solid;
+    border-radius: 10px;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: rgb(211, 173, 247);
+    align-items: center;
+}
+section{display: flex;
+    background-color: rgb(221, 220, 219);
+    height: 260px;
+    width: 420px;
+    border: 2px solid;
+    padding: 10px;
+    justify-content: center;
+    justify-items: center;
+    transform: translate(440px, 140px);
+}
+button{ color: rgb(0, 68, 68); height: 30px; width: 55px; font-weight: bolder; text-align: center;}
